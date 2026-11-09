@@ -2,7 +2,7 @@
 - 👀 I’m interested in processing and visualizing cloud probe data.
 - 🌱 I’m currently learning to do this ^^^
 - 💞️ I’m looking to collaborate on meteorology projects.
-- 📫 How to reach me chall2016@ou.edu
+- 📫 How to reach me christianh2016@gmail.com
 
 <!---
 makee3/makee3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
